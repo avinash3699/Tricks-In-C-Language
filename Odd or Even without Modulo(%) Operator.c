@@ -19,7 +19,7 @@ void main()
 
 /*
     Logic : If we divide an Even number by “2” then the result will be a whole number
-	    and multipling the result with “2” we should be getting the actual number back,
+	    and multiplying the result with “2” we should be getting the actual number back,
             whereas when we divide a Odd number by “2” the result will be fraction and 
             when we multiply the result with “2” we will not be getting the same number again.
 */
